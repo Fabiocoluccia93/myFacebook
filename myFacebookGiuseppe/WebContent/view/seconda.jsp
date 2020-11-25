@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>MyFaceBook HomePage</h1>
-<h2>pagina principale</h2>
-
-<hr>
-
-<a href="view/seconda.jsp">seconda pagina</a>
+<h1>Seconda Pagina</h1>
 </body>
 </html>
