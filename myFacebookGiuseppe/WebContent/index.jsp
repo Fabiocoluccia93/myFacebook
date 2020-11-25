@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>MyFaceBook HomePage</h1>
+<h2>pagina principale</h2>
 </body>
 </html>
