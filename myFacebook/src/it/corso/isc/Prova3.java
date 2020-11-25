@@ -27,7 +27,7 @@ public class Prova3 extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Servito da Fabio: ").append(request.getContextPath());
+		response.getWriter().append("Servito da Fabio C: ").append(request.getContextPath());
 	}
 
 	/**
